@@ -43,6 +43,11 @@ a:hover {
     text-decoration: underline;
 }
 
+.py-3 {
+    background-color:#360eeb;
+    color: #f8f8f8;
+}
+
 
 
 
